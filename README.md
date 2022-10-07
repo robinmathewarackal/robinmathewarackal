@@ -2,6 +2,7 @@
 - 👀 I’m interested in Computer Networks and Cybersecurity 
 - 🌱 I’m currently learning to be an Ethical Hacker and it seems its not going to end this lifetime
 - 📫 How to reach me https://www.linkedin.com/in/robinmathewarackal/
+- Currently working in NOC for Optical Transmission DWDM Network  
 
 <!---
 robinmathewarackal/robinmathewarackal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
